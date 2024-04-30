@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mae-martens
-- 👀 I’m interested in writing, art, and coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach dont lol
+Hi! Im Mae, and I'm very much a beginner here in the coding space in general. Im currently learning PHP, Javascript, and attempting to begin learning C an Java respectively. 🤎📔
 
 <!---
 mae-martens/mae-martens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
